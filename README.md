@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] A card that displays the number of correct answers at the end of the quiz
-* [ ] Order of the states are randomized when the quiz component is rendered
+* [x] A card that displays the number of correct answers at the end of the quiz
+* [x] Order of the states are randomized when the quiz component is rendered
 
 ## Video Walkthrough
 
